@@ -101,12 +101,15 @@ int main(){
 index = a.binarySearch(search_var);
 
     //Checking index value
-    if(index == -1){
+    if(index == -1)
+    {
         cout << "\n Element not found... \n";
     }
-    else{
-        cout << "\n Element " << search_var << " found at index position:" << index << \n";
+    else
+    {
+        cout << "\n Element " << search_var << " found at " << index << " index position... \n";
     }
 
 	return 0;
 }
+
