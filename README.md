@@ -1,3 +1,3 @@
-# NumberArray
+# ArrayGenerator
 
-C++ OOP: Generates an array with a thousand random integers. Performs tasks using the array.
+C++ OOP: Generates an array and uses it to performs tasks. Added "helper method" to notify user when array is empty.
